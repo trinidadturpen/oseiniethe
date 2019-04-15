@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aeghiefooh.gobo.tv/sitemap.xml
